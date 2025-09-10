@@ -1,19 +1,25 @@
 # Pokemon Game
 
-### To play: 
-Select your pokemon from the list of available pokemons
-### You will play against a computer player 
+## To play: 
 ### Enter 'y' to start the game and start your fight
+### You will play against a computer player 
+
 <hr>
 How the game works:<br>
 + You will get given a list of pokemons to choose from<br>
-+ Select your pokemon<br>
-+ You will then be assigned against a randomly generated pokemon<br>
++ Select your pokemon from the list of available pokemons<br>
++ You will then be assigned against a randomly generated pokemon (computer player)<br>
 + Press 'y' to continue to game<br>
 <hr>
-This application uses the Poke API: https://pokeapi.co
+Future integrations:
++ Adding the ability to retrieve pokemons ability and strength
++ Battle against the opponent pokemon and see who's health goes to 0 the quickest
++ Whoever lasts the longest throughout each round wins.
+
+This application uses the Poke API https://pokeapi.co to retrieve pokemons you will use and their attributes
 
 ## Good luck!
+
 
 
 
